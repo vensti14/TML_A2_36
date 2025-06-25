@@ -64,7 +64,7 @@ This queries the victim API and stores the noisy representations.
 
 ## Project Structure
 
-.  
+|  
 ├── augment.py  
 ├── defense.py  
 ├── requirements.txt  
