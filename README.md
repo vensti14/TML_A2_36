@@ -9,8 +9,8 @@
 
 ## Project Description
 
-This repository contains the implementation for **Assignment 2** of the *Trustworthy Machine Learning* course. The task involves performing a **Model Stealing Attack** against a victim encoder that is protected using the **Bucks for Buckets (B4B)** defense mechanism.  
-The objective is to reconstruct the victim encoder’s functionality using only API access that returns obfuscated feature representations.
+- This repository contains the implementation for **Assignment 2** of the *Trustworthy Machine Learning* course. The task involves performing a **Model Stealing Attack** against a victim encoder that is protected using the **Bucks for Buckets (B4B)** defense mechanism.  
+- The objective is to reconstruct the victim encoder’s functionality using only API access that returns obfuscated feature representations.
 
 ---
 
@@ -57,8 +57,8 @@ This queries the victim API and stores the noisy representations.
 
 ## Output Files
 
-**submission_encoder.onnx:** Stolen encoder model in ONNX format.  
-**submission.csv:** Prediction results for the private evaluation set.
+- **submission_encoder.onnx:** Stolen encoder model in ONNX format.  
+- **submission.csv:** Prediction results for the private evaluation set.
 
 ---
 
