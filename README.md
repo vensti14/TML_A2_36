@@ -41,17 +41,17 @@ The objective is to reconstruct the victim encoder’s functionality using only 
 ## How to Run
 
 1. **Install Dependencies:**
-<pre lang="markdown"> ``` pip install -r requirements.txt ``` </pre>
+<pre lang="markdown">pip install -r requirements.txt</pre>
 
 2. **Run the Model Stealing Attack:**
-<pre lang="markdown"> ``` python stealing.py ``` </pre>
+<pre lang="markdown">python stealing.py</pre>
 This queries the victim API and stores the noisy representations.
 
 3. **Train the Stolen Encoder:**
-<pre lang="markdown"> ``` python train_encoder.py ``` </pre>
+<pre lang="markdown">python train_encoder.py</pre>
 
 4. **The trained encoder is saved as:**
-<pre lang="markdown"> ``` submission_encoder.onnx. ``` </pre>
+<pre lang="markdown">submission_encoder.onnx</pre>
 
 ---
 
