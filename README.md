@@ -25,7 +25,6 @@ The objective is to reconstruct the victim encoder’s functionality using only 
 
 ## Key Files and Descriptions
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | File                          | Description                                                                                                                    |
 --------------------------------|---------------------------------------------------------------------------------------------------------------------------------
 | `stealing.py`                 | Main pipeline for the model stealing attack. Handles querying, aggregation of representations, and initial dataset generation. |
@@ -36,7 +35,6 @@ The objective is to reconstruct the victim encoder’s functionality using only 
 | `submission_encoder.onnx`     | The stolen encoder model saved in ONNX format ready for evaluation.                                                            |
 | `submission.csv`              | The outputs from the stolen encoder for the evaluation set.                                                                    |
 | `requirements.txt`            | Lists all Python dependencies required to run the project.                                                                     |
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
 
