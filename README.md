@@ -79,5 +79,5 @@ This queries the victim API and stores the noisy representations.
 ## Contact
 
 For any queries or support, contact:  
-**prpa00003@stud.uni-saarland.de**  
-**anbh00002@stud.uni-saarland.de**
+- **prpa00003@stud.uni-saarland.de**  
+- **anbh00002@stud.uni-saarland.de**
