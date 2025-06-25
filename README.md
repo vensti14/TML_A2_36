@@ -5,7 +5,7 @@
 - **Prasad Pankaj Patil** (Student ID: 7076145) – prpa00003@stud.uni-saarland.de
 - **Ananya Bhardwaz** (Student ID: 7076153) – anbh00002@stud.uni-saarland.de
 
----
+---  
 
 ## Project Description
 
