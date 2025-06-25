@@ -57,7 +57,7 @@ This queries the victim API and stores the noisy representations.
 
 ## Output Files
 
-**submission_encoder.onnx:** Stolen encoder model in ONNX format.
+**submission_encoder.onnx:** Stolen encoder model in ONNX format.  
 **submission.csv:** Prediction results for the private evaluation set.
 
 ---
@@ -65,13 +65,13 @@ This queries the victim API and stores the noisy representations.
 ## Project Structure
 
 .
-├── augment.py
-├── defense.py
-├── requirements.txt
-├── stealing.py
-├── train_encoder.py
-├── utils.py
-├── submission_encoder.onnx
+├── augment.py  
+├── defense.py  
+├── requirements.txt  
+├── stealing.py  
+├── train_encoder.py  
+├── utils.py  
+├── submission_encoder.onnx  
 └── submission.csv
 
 ---
