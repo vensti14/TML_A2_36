@@ -64,7 +64,7 @@ This queries the victim API and stores the noisy representations.
 
 ## Project Structure
 
-.
+.  
 ├── augment.py  
 ├── defense.py  
 ├── requirements.txt  
@@ -78,6 +78,6 @@ This queries the victim API and stores the noisy representations.
 
 ## Contact
 
-For any queries or support, contact:
-**prpa00003@stud.uni-saarland.de**
+For any queries or support, contact:  
+**prpa00003@stud.uni-saarland.de**  
 **anbh00002@stud.uni-saarland.de**
